@@ -1,2 +1,3 @@
-# react-flux
-Ejemplo de React con Flux
+
+## Ejemplo de React con Flux
+
